@@ -73,6 +73,7 @@ ul li::before{
     background-position: center;
     top: 12px;
     left: 8px;
+    transform: translateY(-20%);
 }
 ul li.checked{
     color: #555;
